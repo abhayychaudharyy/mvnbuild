@@ -9,7 +9,7 @@ public class TestCal {
 	{
 		return(a-b);
 	}
-	public static void main(Sting[] args)
+	public static void main(String[] args)
 	{
 		TestCal a= new TestCal();
 		System.out.println("Sum:"+a.sum(10,3));
